@@ -1,3 +1,3 @@
 # Apartment_Applier
-App for applying to Stockholms "first come first serve" apartments. 
+App for scanning and automatically applying to Stockholms "first come first serve" apartments. 
 
